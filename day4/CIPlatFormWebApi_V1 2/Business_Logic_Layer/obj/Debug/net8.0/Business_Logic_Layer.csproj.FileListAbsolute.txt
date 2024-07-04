@@ -1,0 +1,31 @@
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/bin/Debug/net8.0/Business_Logic_Layer.deps.json
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/bin/Debug/net8.0/Business_Logic_Layer.dll
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/bin/Debug/net8.0/Business_Logic_Layer.pdb
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.AssemblyInfoInputs.cache
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.AssemblyInfo.cs
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.csproj.CoreCompileInputs.cache
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.sourcelink.json
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.dll
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/obj/Debug/net8.0/refint/Business_Logic_Layer.dll
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.pdb
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/obj/Debug/net8.0/ref/Business_Logic_Layer.dll
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.csproj.AssemblyReference.cache
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/bin/Debug/net8.0/Data_Logic_Layer.dll
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/bin/Debug/net8.0/Data_Logic_Layer.pdb
+D:/Projects/Vitrual_Community_Support/Backend/CIPlatFormWebApi_V1/Business_Logic_Layer/obj/Debug/net8.0/Business.2FEBA881.Up2Date
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/bin/Debug/net8.0/Business_Logic_Layer.deps.json
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/bin/Debug/net8.0/Business_Logic_Layer.dll
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/bin/Debug/net8.0/Business_Logic_Layer.pdb
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/bin/Debug/net8.0/Data_Logic_Layer.dll
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/bin/Debug/net8.0/Data_Logic_Layer.pdb
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.csproj.AssemblyReference.cache
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.AssemblyInfoInputs.cache
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.AssemblyInfo.cs
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.csproj.CoreCompileInputs.cache
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/obj/Debug/net8.0/Business.2FEBA881.Up2Date
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.dll
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/obj/Debug/net8.0/refint/Business_Logic_Layer.dll
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/obj/Debug/net8.0/Business_Logic_Layer.pdb
+/Users/dharmik/Downloads/CIPlatFormWebApi_V1 2/Business_Logic_Layer/obj/Debug/net8.0/ref/Business_Logic_Layer.dll

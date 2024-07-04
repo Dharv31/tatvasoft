@@ -1,0 +1,14 @@
+<H1>Interpolation binding</H1>
+
+<p>{{name}}</p>
+
+
+<button [disabled]="isdisable" (click)="printName()">Click me </button>
+
+<h1>Two way Binding</h1>
+
+<input type="text" name="inputname" [(ngModel)]="name1">
+
+<p>{{name1}}</p>
+
+<app-communication [myName]="name" (outputName)="updateMyName ($event)"></app-communication>

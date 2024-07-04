@@ -1,0 +1,6 @@
+@CIPlatFormWebApi_V1_HostAddress = http://localhost:5118
+
+GET {{CIPlatFormWebApi_V1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

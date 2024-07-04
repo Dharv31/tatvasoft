@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60B0968-5CBF-43CA-B128-957F447E8DE0}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|d:\\projects\\vitrual_community_support\\backend\\ciplatformwebapi_v1\\ciplatformwebapi_v1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F60B0968-5CBF-43CA-B128-957F447E8DE0}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713139C4-DBAA-4658-AFF1-22F2365F163C}|Business_Logic_Layer\\Business_Logic_Layer.csproj|d:\\projects\\vitrual_community_support\\backend\\ciplatformwebapi_v1\\business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713139C4-DBAA-4658-AFF1-22F2365F163C}|Business_Logic_Layer\\Business_Logic_Layer.csproj|solutionrelative:business_logic_layer\\ballogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60B0968-5CBF-43CA-B128-957F447E8DE0}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|d:\\projects\\vitrual_community_support\\backend\\ciplatformwebapi_v1\\ciplatformwebapi_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60B0968-5CBF-43CA-B128-957F447E8DE0}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA1EF13-8113-4C40-ACEA-6CC2F53BDD06}|Data_Logic_Layer\\Data_Logic_Layer.csproj|d:\\projects\\vitrual_community_support\\backend\\ciplatformwebapi_v1\\data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA1EF13-8113-4C40-ACEA-6CC2F53BDD06}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\dallogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60B0968-5CBF-43CA-B128-957F447E8DE0}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|d:\\projects\\vitrual_community_support\\backend\\ciplatformwebapi_v1\\ciplatformwebapi_v1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60B0968-5CBF-43CA-B128-957F447E8DE0}|CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj|solutionrelative:ciplatformwebapi_v1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA1EF13-8113-4C40-ACEA-6CC2F53BDD06}|Data_Logic_Layer\\Data_Logic_Layer.csproj|d:\\projects\\vitrual_community_support\\backend\\ciplatformwebapi_v1\\data_logic_layer\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA1EF13-8113-4C40-ACEA-6CC2F53BDD06}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA1EF13-8113-4C40-ACEA-6CC2F53BDD06}|Data_Logic_Layer\\Data_Logic_Layer.csproj|d:\\projects\\vitrual_community_support\\backend\\ciplatformwebapi_v1\\data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA1EF13-8113-4C40-ACEA-6CC2F53BDD06}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA1EF13-8113-4C40-ACEA-6CC2F53BDD06}|Data_Logic_Layer\\Data_Logic_Layer.csproj|d:\\projects\\vitrual_community_support\\backend\\ciplatformwebapi_v1\\data_logic_layer\\entity\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA1EF13-8113-4C40-ACEA-6CC2F53BDD06}|Data_Logic_Layer\\Data_Logic_Layer.csproj|solutionrelative:data_logic_layer\\entity\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T11:55:52.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:39:43.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BALLogin.cs",
+              "DocumentMoniker": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\Business_Logic_Layer\\BALLogin.cs",
+              "RelativeDocumentMoniker": "Business_Logic_Layer\\BALLogin.cs",
+              "ToolTip": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\Business_Logic_Layer\\BALLogin.cs",
+              "RelativeToolTip": "Business_Logic_Layer\\BALLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:08:19.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DALLogin.cs",
+              "DocumentMoniker": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\DALLogin.cs",
+              "ToolTip": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\DALLogin.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\DALLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:15:12.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1\\Program.cs",
+              "RelativeDocumentMoniker": "CIPlatFormWebApi_V1\\Program.cs",
+              "ToolTip": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1\\Program.cs",
+              "RelativeToolTip": "CIPlatFormWebApi_V1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:13:58.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "ToolTip": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:39:30.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\User.cs",
+              "ToolTip": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\Entity\\User.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:39:13.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "ToolTip": "D:\\Projects\\Vitrual_Community_Support\\Backend\\CIPlatFormWebApi_V1\\Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "RelativeToolTip": "Data_Logic_Layer\\Entity\\ResponseResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:40:17.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
